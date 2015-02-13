@@ -16,13 +16,9 @@
     <sprites name="menu">
       <sprite>sprites\sprite_play</sprite>
     </sprites>
-    <sprites name="mobs">
-      <sprite>sprites\sprite_bear</sprite>
-    </sprites>
     <sprites name="blocks">
       <sprite>sprites\sprite_blok</sprite>
     </sprites>
-    <sprite>sprites\sprite_hole</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="tiles">
