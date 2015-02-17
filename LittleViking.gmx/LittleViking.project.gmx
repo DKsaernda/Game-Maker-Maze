@@ -19,6 +19,10 @@
     <sprites name="blocks">
       <sprite>sprites\sprite_blok</sprite>
     </sprites>
+    <sprites name="maps">
+      <sprite>sprites\S_Heinabergsar</sprite>
+      <sprite>sprites\S_Hroksholt</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="tiles">
@@ -29,6 +33,12 @@
     </backgrounds>
     <backgrounds name="map">
       <background>background\Heinabergsar</background>
+      <background>background\M_Geirlandsa</background>
+      <background>background\M_Heinabergsar</background>
+      <background>background\M_Hroksholt</background>
+      <background>background\M_Hroarsholtsloekr</background>
+      <background>background\M_Hvaleyrr</background>
+      <background>background\M_WildeWind</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
@@ -47,6 +57,10 @@
       <object>objects\object_blok</object>
       <object>objects\object_hole</object>
     </objects>
+    <objects name="maps">
+      <object>objects\O_Heinabergsar</object>
+      <object>objects\O_Hroksholt</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <rooms name="menu">
@@ -54,6 +68,9 @@
     </rooms>
     <rooms name="levels">
       <room>rooms\L_Heinabergsar</room>
+    </rooms>
+    <rooms name="maps">
+      <room>rooms\R_Geirlandsa</room>
     </rooms>
   </rooms>
   <help>
