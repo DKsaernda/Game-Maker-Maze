@@ -22,6 +22,9 @@
     <sprites name="maps">
       <sprite>sprites\S_Heinabergsar</sprite>
       <sprite>sprites\S_Hroksholt</sprite>
+      <sprite>sprites\S_Hroarsholtsloekr</sprite>
+      <sprite>sprites\S_Hvaleyrr</sprite>
+      <sprite>sprites\S_WildeWind</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
