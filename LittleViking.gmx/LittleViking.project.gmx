@@ -29,10 +29,7 @@
   </sprites>
   <backgrounds name="background">
     <backgrounds name="tiles">
-      <background>background\background2</background>
-      <background>background\background</background>
-      <background>background\background3</background>
-      <background>background\background4</background>
+      <background>background\tiles</background>
     </backgrounds>
     <backgrounds name="map">
       <background>background\Heinabergsar</background>
@@ -63,6 +60,8 @@
     <objects name="maps">
       <object>objects\O_Heinabergsar</object>
       <object>objects\O_Hroksholt</object>
+      <object>objects\O_Hroarsholtsloekr</object>
+      <object>objects\O_Hvaleyrr</object>
     </objects>
   </objects>
   <rooms name="rooms">
